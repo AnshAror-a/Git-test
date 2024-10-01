@@ -1,3 +1,8 @@
-Coursera IBM Full stack software developer course 2, Getting started with Git and Github week 3 final project
-Authors
-Anurak Rana
+# How to use this repo? 
+
+As of May 2024, documentation has been migrated to the repository [wiki](https://github.com/larics/docker_files/wiki). 
+
+## Suggestions
+
+If you have any suggestions how to make this repository better, please don't hesitate to reach out to: `filip.zoric@fer.hr`, 
+or raise an issue. 
